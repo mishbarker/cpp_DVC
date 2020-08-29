@@ -1,6 +1,6 @@
 //============================================================================
 // Name : 8-16.cpp
-// Author : Paul Hrycewicz
+// Author :
 // Version :
 // Copyright : Your copyright notice
 // Description : Hello World in C++, Ansi-style
