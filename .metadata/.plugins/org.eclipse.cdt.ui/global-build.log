@@ -1,0 +1,5 @@
+16:08:32 **** Incremental Build of configuration Debug for project Pointers_Ex2 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Test3.o" "..\\src\\Test3.cpp" 
+g++ -o Pointers_Ex2.exe "src\\Test3.o" 
+Info: Nothing to build for Pointers_Ex2
